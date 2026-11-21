@@ -1,0 +1,4 @@
+{
+  "payload": "{\"app\":\"PJC Tweaks\",\"kind\":\"server\",\"seq\":1,\"url\":\"https://pjc-licensing.pjctweaks.workers.dev\",\"cert\":\"PJCA1-AvPUGJmezTiBAAAAAAAAAAAAAAAAAAAA0JlFJwtYS7xGi5Cs0JyeCGM-ZXK8Ng9Kwh2IJkME3uAEHwAAAAARQWN0aXZhdGlvbiBzZXJ2ZXJEwzVwRhLp7R-FmvDpTExXaeFEpITlO-7wZd7KlX80xyJxPJX-2CGhUlSCgqmfo0zmf0ANf9Ys-YgrGecmTB4O\",\"date\":\"2026-11-21T22:22:54.850Z\"}",
+  "sig": "Kse+yaiwSOlh4Ud5Lpx0LYIF/vXa8c7rdWK7exDyUaQqqkIt7+rWXY6+C1DIPoQLIy4SRcIj8dJ40UhQxApVDQ=="
+}
